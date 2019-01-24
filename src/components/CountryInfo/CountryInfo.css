@@ -1,0 +1,12 @@
+.CountryInfo {
+    text-align: center;
+    width: 69%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.CountryInfo li {
+    list-style: none;
+    font-style: italic;
+}
+
